@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Cantidad_Material_Faltante"
+        android:title="CANTIDAD DE MATERIAL FALTANTE"
+        android:orderInCategory="100"
+        ></item>
+
+    <item android:id="@+id/Reporte_Material_Defectuoso"
+        android:title="REPORTE DE MATERIAL DEFECTUOSO"
+        android:orderInCategory="200"
+        ></item>
+
+
+</menu>

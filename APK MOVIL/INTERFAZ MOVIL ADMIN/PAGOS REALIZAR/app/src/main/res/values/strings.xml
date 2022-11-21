@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PAGOS A REALIZAR</string>
+    <string name="Nomina_Provedor">NOMINA PROVEDOR</string>
+    <string name="Nomina_Vendedor">NOMINA VENDEDOR</string>
+    <string name="Nomina_Operario">NOMINA OPERARIO</string>
+    <string name="Nomina_Seguridad_Social">NOMINA SEGURIDAD SOCIAL</string>
+
+
+</resources>

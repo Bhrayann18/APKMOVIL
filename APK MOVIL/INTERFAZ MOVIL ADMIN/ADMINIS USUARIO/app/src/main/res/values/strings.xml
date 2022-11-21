@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ADMINISTRAR USUARIO</string>
+    <string name="Agregar_Usuario">AGREGAR USUARIO</string>
+    <string name="Eliminar_Usuario">ELIMINAR USUARIO</string>
+    <string name="Recuperar_Contraseña">RECUPERAR CONTRASEÑA</string>
+
+
+</resources>

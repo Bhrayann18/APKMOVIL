@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NOMINA OPERARIO</string>
+    <string name="Prendas_Realizadas">PRENDAS REALIZADAS</string>
+    <string name="Prendas_Defectuosas">PRENDAS DEFECTUOSAS</string>
+    <string name="Valor_Pagar">VALOR A PAGAR</string>
+
+
+</resources>

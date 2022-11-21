@@ -1,0 +1,100 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FEF7DC"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="193dp"
+        android:layout_height="172dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/icono" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:text="INICIO DE SESION"
+        android:textColor="#000000"
+        android:textSize="45sp" />
+
+    <EditText
+        android:layout_width="382dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp"
+        android:hint="INGRESE SU CORREO ELECTRONICO" />
+
+    <EditText
+        android:layout_width="382dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:hint="INGRESE SU CONTRASEÑA"
+        android:inputType="textPassword" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#C2B8A3"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="500dp"
+        android:textColor="@color/black"
+        android:text="INICIAR" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="570dp"
+        android:text="OLVIDO LA CONTRASEÑA"
+        android:textColor="#2192FF" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="600dp"
+        android:fontFamily="sans-serif-light"
+        android:text="METODOS DE INICIO"
+        android:textColor="@color/black" />
+
+
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="650dp"
+        app:srcCompat="@drawable/modo_de_color" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="650dp"
+        app:srcCompat="@drawable/_740697" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="350dp"
+        android:layout_marginTop="650sp"
+        app:srcCompat="@drawable/ayuda" />
+
+
+
+</RelativeLayout>

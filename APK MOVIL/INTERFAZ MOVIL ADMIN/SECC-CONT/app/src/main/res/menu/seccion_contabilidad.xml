@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/seccion_Contabilidad_Mes"
+        android:title="CONTABILIDAD DEL MES"
+        android:orderInCategory="100"
+
+
+        ></item>
+    <item android:id="@+id/seccion_Contabilidad_Meses_Anteriores"
+        android:title="CONTABILIDAD MESES ANTERIORES"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+
+
+
+
+
+</menu>

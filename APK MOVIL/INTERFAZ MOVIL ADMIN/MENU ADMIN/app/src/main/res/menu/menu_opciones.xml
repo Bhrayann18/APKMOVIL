@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mContabilidad"
+        android:title="@string/menu_Contabilidad"
+        android:orderInCategory="100"
+
+
+        ></item>
+    <item android:id="@+id/mPagos_Realizar"
+        android:title="@string/menu_Pagos_Realizar"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+
+    <item android:id="@+id/mReporte_Material"
+        android:title="REPORTE_MATERIAL"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+    <item android:id="@+id/mAdministrar_Usuarios"
+        android:title="ADMINISTRAR_USUARIOS"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+    <item android:id="@+id/mIdentificacion"
+        android:title="IDENTIFICACION"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+    <item android:id="@+id/mMi_Cuenta"
+        android:title="MI:CUENTA"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+
+
+
+
+</menu>

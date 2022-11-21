@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Prendas_Realizadas"
+        android:title="PRENDAS REALIZADAS"
+        android:orderInCategory="100"
+        ></item>
+
+    <item android:id="@+id/Prendas_Defectuosas"
+        android:title="PRENDAS DEFECTUOSAS"
+        android:orderInCategory="200"
+        ></item>
+    <item android:id="@+id/Valor_Pagar"
+        android:title="VALOR A PAGAR"
+        android:orderInCategory="200"
+        ></item>
+
+
+
+</menu>

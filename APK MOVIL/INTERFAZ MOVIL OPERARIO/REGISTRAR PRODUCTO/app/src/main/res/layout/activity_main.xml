@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FEF7DC"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="REGISTRAR PRODUCTOS"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"/>
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="70dp"
+        android:layout_height="64dp"
+        android:layout_marginLeft="195dp"
+        android:layout_marginTop="90dp"
+        app:srcCompat="@drawable/notificacion" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="90dp"
+        app:srcCompat="@drawable/lupa" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="265dp"
+        android:layout_marginTop="90dp"
+        app:srcCompat="@drawable/menu" />
+
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="90dp"
+        app:srcCompat="@drawable/flecha" />
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="650dp"
+        app:srcCompat="@drawable/modo_de_color" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="650dp"
+        app:srcCompat="@drawable/_740697" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="350dp"
+        android:layout_marginTop="650sp"
+        app:srcCompat="@drawable/ayuda" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="400dp"
+        android:layout_height="480dp"
+        android:layout_marginTop="170dp"
+        app:srcCompat="@drawable/marconegro50x70" />
+
+    <TextView
+        android:id="@+id/text10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="TIPO DE PRODUCTO"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="190dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"/>
+
+
+
+    <EditText
+        android:id="@+id/text1"
+        android:layout_width="200dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="230dp"
+        android:hint="INGRESE PRODUCTO" />
+
+    <TextView
+        android:id="@+id/text20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="CODIGO DEL PRODUCTO"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="320dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"/>
+
+    <EditText
+        android:id="@+id/text2"
+        android:layout_width="200dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:hint="INGRESE CODIGO" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="570dp"
+        android:backgroundTint="#A19882"
+        android:text="REGISTRAR" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        app:srcCompat="@drawable/camisa" />
+
+
+</RelativeLayout>

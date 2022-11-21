@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SECCION_CONTABILIDAD_MES</string>
+    <string name="Contabilidad_Mes">REPORTE OPERADOR</string>
+    <string name="Pagos_Realizados">PAGOS REALIZADOS</string>
+    <string name="Materiales">MATERIALES</string>
+    <string name="Reporte_Vendedor">REPORTE VENDEDOR</string>
+    <string name="Comparar_Mes_Anterior">COMPARAR MES ANTERIOR</string>
+
+
+
+</resources>

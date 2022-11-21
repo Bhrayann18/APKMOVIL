@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Agragar_Certificado"
+        android:title="AGREGAR CERTIFICADO"
+        android:orderInCategory="100"
+        ></item>
+
+    <item android:id="@+id/Certificados"
+        android:title="CERTIFICADOS"
+        android:orderInCategory="200"
+        ></item>
+
+
+</menu>
+

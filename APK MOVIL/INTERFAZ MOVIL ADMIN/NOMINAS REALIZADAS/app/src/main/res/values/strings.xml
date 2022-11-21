@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NOMINAS REALIZADAS</string>
+    <string name="Operario">OPERARIO</string>
+    <string name="Vendedor">VENDEDOR</string>
+    <string name="Materiales">MATERIALES</string>
+    <string name="Provedor">PROVEDOR</string>
+    <string name="Seguridad_Social">SEGURIDAD SOCIAL</string>
+
+
+
+</resources>

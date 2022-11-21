@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SECCION_CONTABILIDAD</string>
+    <string name="seccion_Contabilidad_Mes">CONTABILIDAD DEL MES</string>
+    <string name="seccion_Contabilidad_Meses_Anteriores">CONTABILIDAD MESES ANTERIORES</string>
+
+
+
+</resources>

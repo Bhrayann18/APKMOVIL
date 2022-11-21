@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NOMINA VENDEDOR</string>
+    <string name="Ventas_Realizadas">VENTAS REALIZADAS</string>
+    <string name="Quejas_Reclamos">QUEJAS Y RECLAMOS</string>
+    <string name="Valor_Pagar">VALOR A PAGAR</string>
+
+
+</resources>

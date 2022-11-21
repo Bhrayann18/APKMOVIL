@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Registrar_Producto"
+        android:title="REGISTRAR PRODUCTO"
+        android:orderInCategory="100"
+
+
+        ></item>
+    <item android:id="@+id/Reportar_Material"
+        android:title="REPORTAR MATERIAL"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+
+    <item android:id="@+id/Certificacion"
+        android:title="CERTIFICACION"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+    <item android:id="@+id/Mi_Cuenta"
+        android:title="MI CUENTA"
+        android:orderInCategory="200"
+
+
+        ></item>
+
+
+
+
+</menu>

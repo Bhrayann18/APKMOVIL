@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Operario"
+        android:title="OPERARIO"
+        android:orderInCategory="100"
+        ></item>
+
+    <item android:id="@+id/Vendedor"
+        android:title="VENDEDOR"
+        android:orderInCategory="200"
+        ></item>
+
+
+    <item android:id="@+id/Materiales"
+        android:title="MATERIALES"
+        android:orderInCategory="200"
+        ></item>
+
+    <item android:id="@+id/Provedor"
+        android:title="PROVEDOR"
+        android:orderInCategory="200"
+        ></item>
+
+    <item android:id="@+id/Seguridad_Social"
+        android:title="SEGURIDAD SOCIAL"
+        android:orderInCategory="200"
+        ></item>
+
+
+
+
+</menu>

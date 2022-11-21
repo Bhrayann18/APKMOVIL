@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">REPORTE MATERIALES</string>
+    <string name="Cantidad_Material_Faltante">CANTIDAD DE MATERIAL FALTANTE</string>
+    <string name="Reporte_Material_Defectuoso">REPORTE DE MATERIAL DEFECTUOSO</string>
+
+
+</resources>

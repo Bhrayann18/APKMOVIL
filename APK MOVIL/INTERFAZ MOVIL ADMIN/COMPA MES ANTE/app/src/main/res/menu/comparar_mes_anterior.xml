@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Contabilidad_Mes_Anterior"
+        android:title="CONTABILIDAD MES ANTERIOR"
+        android:orderInCategory="100"
+        ></item>
+
+    <item android:id="@+id/Variable_Perdidas_Ganancias"
+        android:title="VARIABLE DE PERDIDAS Y GANACIAS"
+        android:orderInCategory="200"
+        ></item>
+
+
+</menu>

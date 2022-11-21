@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MENU_ADMIN</string>
+    <string name="menu_Contabilidad">CONTABILIDAD</string>
+    <string name="menu_Pagos_Realizar">PAGOS_REALIZAR</string>
+    <string name="menu_Reporte_Material">REPORTE_MATERIAL</string>
+    <string name="menu_Administrar_Usuarios">ADMINISTRAR_USUARIOS</string>
+    <string name="menu_Certificacion">CERTIFICACION</string>
+    <string name="menu_Mi_Cuenta">MI_CUENTA</string>
+
+
+
+</resources>

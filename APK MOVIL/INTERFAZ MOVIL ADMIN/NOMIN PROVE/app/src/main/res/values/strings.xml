@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NOMINA PROVEDOR</string>
+    <string name="Material_Adquirido">MATERIAL ADQUIRIDO</string>
+    <string name="Material_Defectuoso">MATERIAL DEFECTUSO</string>
+    <string name="Valor_Pagar">VALOR A PAGAR</string>
+
+
+</resources>

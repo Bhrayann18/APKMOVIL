@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MENU OPERARIO</string>
+    <string name="Registrar_Producto">REGISTRAR PRODUCTO</string>
+    <string name="Reportar_Material">REPORTAR MATERIAL</string>
+    <string name="Certificacion">CERTIFICACION</string>
+    <string name="Mi_Cuenta">MI CUENTA</string>
+
+
+
+
+</resources>

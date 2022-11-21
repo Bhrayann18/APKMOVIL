@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Nomina_Provedor"
+        android:title="NOMINA PROVEDOR"
+        android:orderInCategory="100"
+        ></item>
+
+    <item android:id="@+id/Nomina_Vendedor"
+        android:title="NOMINA VENDEDOR"
+        android:orderInCategory="200"
+        ></item>
+    <item android:id="@+id/Nomina_Operario"
+        android:title="NOMINA OPERARIO"
+        android:orderInCategory="200"
+        ></item>
+    <item android:id="@+id/Nomina_Seguridad_Social"
+        android:title="NOMINA SEGURIDAD SOCIAL"
+        android:orderInCategory="200"
+        ></item>
+
+
+</menu>
